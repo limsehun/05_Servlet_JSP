@@ -10,11 +10,13 @@
 <body>
 
     <%-- 
-       localhost/WEB-INF/views/result.jsp
+        localhost/WEB-INF/views/result.jsp
      --%>
 
 
     <h1>결과 페이지</h1>
+
+    <h3>${message}</h3>
     
 </body>
 </html>
